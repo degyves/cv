@@ -1,0 +1,101 @@
+= Víctor Polo de Gyves Montero
+
++ 52 55-4926-9478 | victor.degyves@koneksys.com +
+Morelos e Independencia +
+Segunda Sección. Juchitán Oaxaca, Zip Code: 70000
+
+== Experience
+
+=== Developer and Linked Data Researcher at Koneksys
+
+. *Java toolkit to migrate data from IBM DOORS Classic to IBM RQM and DNG* _January 2019 - April 2020_
+** Lead and coded a backend for a java toolkit to migrate data from IBM DOORS classic to IBM RQM and IBM DNG. I was responsible to lead the project. Built the API to communicate with IBM DNG, IBM RQM, IBM Global Configurations, enable authentication and parallelize the API to support concurrent migration. RDF, OSLC and several IBM APIs like the IBM DNG Reportable REST API  and IBM QM Reportable Rest API were required for this project. 
+** Clients: River North Solutions, Johnson & Johnson, Aerojet Rocketdyne.
+. *Web application to create an  user-friendly interface for a java toolkit to migrate data from IBM DOORS Classic to IBM RQM and DNG* _October 2019 - April 2020_
+** Led and and coded the front-end web application for a command-line based java toolkit to migrate data from IBM DOORS to IBM QM and DNG which provided a web-based UI with alerts, statistics and capability to store different settings. Applied HTML5, CSS, vanilla Javascript and Vue.js.
+** Clients: River North Solutions, Johnson & Johnson, Aerojet Rocketdyne.
+. *Widget toolkit for IBM DNG 6.x* _February - March 2020_
+** Created a Widget application for IBM DNG 6.x, which can be installed inside the IBM CLM application server, so it is directly available at the web UI of IBM DNG. This widget filtered requirements inside a DNG module, then it read some properties, then calculated a few results and updated each requirement. For this task I used javascript, CSS, HTML and several sources to create IBM Widgets for CLM applications. 
+** Clients: River North Solutions, Johnson & Johnson
+. *Maintenance and documentation of an API to interact with IBM DNG and IBM GC version 6* _July 2018 - December 2018_
+** Maintenance to a java library which was able to execute operations over IBM and IBM DNG applications like: create, delete, update, query and link RM artifacts and modules and browse IBM GC configurations. The implementation was finished and tests were run to identify bugs and fixes required to make it work with IBM CLM version 6.0.6, then added documentation. Research about OSLC Rest APIs and IBM DNG Reportable REST API was required
+** Clients: Sodius
+. *Library to Manage IBM DNG Modules for IBM CLM 6.x* _July 2017 - December 2017_
+** IBM DNG modules are not supported by the OSLC standard. A requirement for a customer lead to create a library to support operations over modules (reorder its artifacts, create hierarchies inside a module, update the hierarchy, create and delete links to module elements, query over modules to find artifacts). I applied knowledge for OSLC, IBM DNG Reportable REST API and analysis of the web UI of IBM DNG.
+** Clients: AirBus
+. *Research to create a distributed graph database supporting RDF/XML* _January 2017 - July 2017_
+** Research and evaluation of the state-of-the-art of graph databases, which scale-out support they provide and at which consistency, availability and partition tolerance tradeoffs. Then did an evaluation of which technologies would be better to create a new solution. For this project I tested CockroachDB, VoltDB, AllegroGraph, JanusGraph, Apache Jena.
+** Clients: Internal development at Koneksys
+
+=== Non-profit organizations
+
+. *Chairman of Oaxacode* _2017-2020_
+** A non-profit organization to bring talks of Information and Communication Technology to the community of students of Oaxaca, Mexico.
+** Developers in Mexico created with Facebook Live, Slack and GitHub free courses to computer science - related students to provide them with the trust and confidence to make it easy to them to find a job.
+
+=== Manager of New Technologies at ITComplements 
+
+. *Manager of new technologies at ITComplements. Data interoperability on Healthcare* _January 2016 - December 2016_
+** I was in charge to research the technologies and standards to add an interface to an Electronic Health Records Software to make it compliant with interoperability requirements of the mexicano government. For this task, I learnt about RDF/XML, FHIR, HL7 v3 specifications for Electronic Health Records management. I identified the required technology and built a team to develop the required library.
+** Clients: Secretaría de Salud del Estado de Puebla, México.
+
+=== Advisor at PEMEX
+
+. *Advisor on PEMEX for computational algorithms of finance* _2011 to 2015_
+** I developed stochastic and deterministic algorithms to evaluate oil & gas project portfolios using net present value, real options for for project portfolio evaluation and monte carlo. For this project I applied Fortran 95 and Java. A lot of mathematical research was used to implement the latests methods available in the oil and gas industry.
+** Clients: PEMEX Exploration and Production, Oil and Gas.
+. *Schlumberger México and PEMEX* _2006_. Advisor of software development.
+. I was hired to work as advisor on the development of stochastic systems capable to predict investments based on the use of computer simulation.
+** I created a team of developers who created two tools to stochastically evaluate oil and gas projects.
+** Clients: Schlumberger and PEMEX.
+
+=== Government 
+
+. *Elected member of the Council of Juchitan as Alderman of Finance* _2008 to 2010_
+** I was constitutionally elected to manage a government portfolio of finance on my local council of Juchitan, Oaxaca. I managed 200 persons and around 10 million USD dollars by year for three consecutive year, mainly to build basic infraestructure like drinking water supplies, electricity, basic scools and hospitals.
+** Clients: Local council of Juchitan, Oaxaca, México.
+. *Collaboration with the local Government of the Federal District’s Civil Protection Department* _january 2005 - december 2005_
+**  Draft of ATLAS-2, a program to coordinate the activities after a major disaster on the city (e.g. earthquakes). I applied knowledge on Geographical Information Systems, with the usage of PostgreSQL and PostGIS with Common Lisp and Java.
+** Clients: Gobierno de la Ciudad de México, México.
+
+=== Developer at SoftwarePro International 
+
+. *Project leader at SoftwarePro International developing BiblioDigital* _May 2003 to december 2004_
+** BiblioDigital is a digital library, mostly similar as Verity/K2, created using Lucene, Tomcat, Clasitex, etc (mostly opensource tools). A paper was published about BiblioDigital INEGI, also
+in Springer. Some licences of the program were sold.
+** Clients: CONAFE, CONACYT, UAEH, Instituto Politécnico Nacional.UAEH, Instituto Politécnico Nacional.
+
+== Education
+
+. *BS on Informatics, Unidad Profesional Interdisciplinaria de Ingenierías, Ciencias Sociales y Administrativas, Instituto Politécnico Nacional.* _May 1998, Aug 2003_
+. *High School COBAO "Pueblo Nuevo", Oaxaca.* _May 1995 - May 1998_
+** Honors: Bronze medal on mathematics regional championship.
+
+== Research and Publications
+
+. *Lecture Notes in Computer Science. A distributed digital text accesing and acquisition system.   IEEE International Symposium and School on Advance Distributed Systems*.  _ISSADS 2004_
+. *Extending databases to precision-controlled retrieval of qualitative information. IEEE International Symposium and School on Advance Distributed Systems* _ISSADS 2005_
+. *The Semantics of Confusion in Hierarchies: Theory and Practice in: Common Semantics for
+Sharing Knowledge: Contributions to ICCS 2005 13th International Conference on Conceptual
+Structures* _ICCS 2005 Kassel, Germany, July 2005_
+. *BiblioDigital, red para compartir información distribuida.* _Boletín de los Sistemas Nacionales
+Estadístico y de Información Geográfica _2004_
+
+== Hobbies and interests
+
+image:icos/32indoor-climbing72.png[title="english", 20, 20] Indoor climbing
+
+image:icos/32sailing72.jpg[title="english", 20, 20] Sailing
+
+image:icos/32dance-logo72.png[title="english", 20, 20] Salsa dance teacher
+
+image:icos/32sweat-lodge72.png[title="english", 20, 20] Sweat lodge student
+
+== Languages
+
+image:icos/32logo-english.png[title="english", 20, 20] English: Fluent 
+
+image:icos/32espanol-language.png[title="espanol", 20, 20 ] Spanish: Native 
+
+image:icos/32french-ico.png[title="french-ico", 20, 20 ] French: Basic 
+

@@ -1,0 +1,63 @@
+= Víctor Polo de Gyves Montero
+
++ 52 55-4926-9478 | victor.degyves@koneksys.com +
+Morelos e Independencia +
+Segunda Sección. Juchitán Oaxaca, Zip Code: 70000
+
+== Experience
+
+=== Developer and Linked Data Consultant at Koneksys
+
+. *Data migration from IBM DOORS Classic to IBM RQM and DNG* _January 2019 - April 2020_
+** Led and created an application consisting of a backend and a front end web application to migrate data from IBM DOORS Classic to IBM RQM and DNG. For the backend, built the API to communicate with IBM DNG, RQM and GC. Also provided support to IBM Jazz Authentication and to concurrent migration. RDF, OSLC, IBM DNG Reportable REST API and IBM QM Reportable Rest API was used for the backend. Developed the front end web application, where HTML5, CSS, Vue.js and vanilla JavaScript was used. Created a widget for the IBM DNG 6.0.6 dashboard to query RM artifacts of a module, filter, calculate given artifact property values and update artifacts. Developed the widget using JavaScript, HTML and CSS. _Clients: River North Solutions, Johnson & Johnson, Aerojet Rocketdyne._
+. *Maintained a library to update it to support IBM DNG and Gobal Configurations (GC) version 6* _July 2018 - December 2018_
+** Maintained a java library to support IBM CLM 6.0.6 for CRUD operations and link RM artifacts at modules given an IBM Global Configurations (GC) configuration. OSLC, IBM DNG Reportable REST API and OSLC Global Configurations (GC) was required. _Clients: Sodius_
+. *Library to Manage IBM DNG Modules for IBM CLM 6.x* _July 2017 - December 2017_
+** Created a library to operate over IBM DNG modules: reorder artifacts, create hierarchies, update modules, manage links to module elements, query for artifacts. Applied of OSLC, IBM DNG Reportable REST API and analysis of the web UI of IBM DNG. _Clients: AirBus_
+. *Research on distributed graph database supporting RDF* _January 2017 - July 2017_
+** Research and evaluation of the state-of-the-art graph databases to identify scale-out support and its consistency, availability and partition tolerance tradeoffs. Tested CockroachDB, VoltDB, AllegroGraph, JanusGraph, Apache Jena. _Clients: Internal development at Koneksys_
+
+=== Non-profit organizations
+
+. *Chairman of Oaxacode* _2017-2020_
+** Non-profit organization giving talks of Computer Science to students of Oaxaca, Mexico. With Facebook Live, Slack and GitHub, talks create trust and confidence on students.
+
+=== Manager of New Technologies at ITComplements 
+
+. *New Technologies on Healthcare at ITComplements* _January 2016 - December 2016_
+** Research to comply interoperability requirements of the government for an Electronic Health Record software. RDF/XML, FHIR, HL7 v3 was investigated. _Clients: ITComplements_
+
+=== Advisor at PEMEX Exploración y Producción
+
+. *Advisor on PEMEX for stochastic evaluation of project portfolios* _2006 and 2011 to 2015_
+** Built a software able to forecast and evaluate Oil & Gas project portfolios. Fortran 95 and Java were used.  _Clients: PEMEX Exploración y Producción, Schlumberger_
+
+=== Government 
+
+. *Member of the Council of Juchitan as Alderman of Finance* _2008 to 2010_
+** Constitutionally elected for 3 years as Alderman of Finance at the council of Juchitan, Oaxaca. _Clients: Council of Juchitan, Oaxaca, México_
+. *Department of the Federal District’s Civil Protection* _january 2005 - december 2005_
+** Develop for ATLAS-2, a software to coordinate activities after a city major disaster. Used PostgreSQL, PostGIS, Common Lisp and Java. _Clients: Gobierno de la Ciudad de México_
+
+=== Developer at SoftwarePro International 
+
+. *BiblioDigital at SoftwarePro International* _May 2003 to December 2004_
+** Created BiblioDigital, a digital library mostly similar as Verity/K2 using Lucene, Tomcat, Clasitex. Two publications were made: for INEGI and for Springer. _Clients: CONAFE, CONACYT, UAEH, Instituto Politécnico Nacional_
+
+== Education
+
+. *BS on Informatics, UPIICSA, Instituto Politécnico Nacional.* _May 1998, Aug 2003_
+. *High School COBAO "Pueblo Nuevo", Oaxaca.* _May 1995 - July 1998_ _Honors: Bronze medal on mathematics regional championship._
+
+== Hobbies and interests
+
+|====
+image:icos/32indoor-climbing72.png[title="english", 20, 20] Indoor climbing|image:icos/32sailing72.jpg[title="english", 20, 20] Sailing|image:icos/32dance-logo72.png[title="english", 20, 20] Salsa teacher|image:icos/32sweat-lodge72.png[title="english", 20, 20] Sweat lodge student
+|====
+
+== Languages
+
+|====
+image:icos/32logo-english.png[title="english", 20, 20] English: Fluent|image:icos/32espanol-language.png[title="espanol", 20, 20 ] Spanish: Native|image:icos/32french-ico.png[title="french-ico", 20, 20 ] French: Basic 
+|====
+

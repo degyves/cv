@@ -1,0 +1,128 @@
+= Curriculum Vitae
+Víctor Polo de Gyves Montero <victor.degyves@koneksys.com>
+
+== Personal information and Curriculum Vitae
+
+=== Contact information
+
+. By phone
+.. Please drop me a whatsapp first to register your phone number.
+.. Calling from outside México:
+... To my cellphone: +52 55 4926 9478.
+.. Calling from Mexico:
+... To my cellphone: 55 4926 9478.
+. Additional contact info:
+.. E-mail to victor.degyves@koneksys.com
+.. Or, to the Skype account: degyvesmontero.
+. Useful links
+.. LinkedIn https://www.linkedin.com/in/victor-polo-de-gyves-montero/
+.. GitHub https://github.com/degyves
+.. StackOverflow https://stackoverflow.com/users/6748042/victor-polo-de-gyves-montero
+.. Twitter https://twitter.com/degyvesmontero
+... I almost never use my twitter account
+
+=== Professional Experience
+
+. 2004-2006. Work at SoftwarePro International creating BiblioDigital as project leader.  BiblioDigital is a digital library, mostly similar as Verity/K2, created using Lucene, Tomcat, Clasitex, etc (mostly opensource tools). A paper was published about BiblioDigital at INEGI, also
+in Springer. Some licences of the program were sold.
+. 2005. Collaboration with the local Government of the Federal District’s Civil Protection Department. Draft of ATLAS-2, a program to coordinate the activities after a major disaster on the city (e.g. earthquakes).
+. 2006. Schlumberger México and PEMEX. Working as advisor on stochastic systems capable to predict investments based on the use of computer simulation.
+. 2008-2010, Elected member of the Council of Juchitan as Alderman of Finance.
+. 2011-2015, Advisor on PEMEX for computational algorithms of finance.
+. 2016, Manager of new technologies at ITComplements. Data interoperability on Healthcare.
+. 2016-2017. Independant Consultant and Researcher of Linked Data and Big Data at Koneksys. Data integration using web standards.
+. 2017-2020. Chairman of Oaxacode: A non-profit organization to bring talks of Information and Communication Technology to the community of students of Oaxaca.
+. 2018-2020. Developer and Researcher of Linked Data and Machine Learning at Koneksys.
+.. 2019-2020. I led a project to translate data from IBM DOORS to IBM QM and IBM DNG (IBM CLM version 6)
+
+=== Technical Knowledge
+
+Programming languages
+
+. Backend
+.. Java SDK (1.4 - 1.9), Different flavors of C and C++ and C . Python 2 and 3, Django, IPython. Fortran 90, 95, 2003. Prolog (Amzi! Prolog). PL/SQL, R, Octave, wxMaxima CAS and GNUPlot.  Common Lisp (CCL and SBCL implementations).
+. Frontend
+.. Javascript 5, 6, CSS, JSP, JSF, ASP
+
+Web experience
+
+. Developed and operated BiblioDigital, a scalable, high performant, federated digital repository of digital documents with a web front-end using servlets and HTML/Javascript/CSS.
+. Developed the web-based plots for the oil and gas company, PEMEX Exploracion y Produccion SEREH system. A scale-up service to perform economic evaluations.
+. Web apps with Java and Django
+. Fully compliant REST-consuming web interfaces at Koneksys over several projects
+. Technologies: ECMAScript 5 and 6, NodeJs 7.2, JQuery, ReactJs 15, Angular 4, 
+. 2019-2020: Developed a Vue.js (javascript) web application to migrate DOORS ReqIf data from IBM DOORS to IBM QM and IBM DNG applications
+
+Backend experience
+
+. IBM CLM version 6
+.. OSLC RM for IBM DNG version 6
+.. Doors Next Reportable Rest API for IBM DNG  version 6
+.. OSLC QM for IBM CLM QM version 6
+.. QM Reportable Rest API for IBM CLM QM version 6
+.. OSLC QM for IBM CLM QM version 6
+.. OSLC GC for IBM CLM GC version 6
+.. Installation and setup of IBM CLM version 6
+. Java, EE 6 and 7 over Payara/Wildfly: JDBC, JPA, EJB’s, JBoss Forge,
+. Economic evaluators, Black-Scholes to value currency options. Production forecasting decline curve analysis.
+. REST
+.. Design and programming of REST level 3 APIs with hypermedia
+.. Enhancement and automation of REST level 3 APIs OSLC (RDF/XML + REST)
+. DotNet backend programming with C#, IIS and NHibernate / Ms SQLServer
+. Django and Django REST Framwework
+
+Operating Systems
+
+. OpenBSD, HP-UX, GNU/Linux and BSD *NIX, Windows family from 4.0 to 2012 server, OSX.
+
+Databases, NoSQL PostSQL, Big Data
+
+. Document Stores
+.. MongoDB 3.2 . ElasticSearch 5.4, Lucene from 2002, Solr 6.6
+. Scale-out
+.. HBase 1.2, CockroachDB, Oracle 12c, Cassandra
+. Graph Databases
+.. Apache Jena, TitanDB/JanusGraph/DataStax
+. Relational Databases
+.. PostgreSQL (7.0 to 9.5), MySQL (from 3.x to 5), Firebird, HSSQL, SQL Server 2000 - 2012,
+Access, dbase and Fox Pro databases, plain text and xml databases.
+. Big Data
+.. IPC fifo, Unix domain sockets, tcp sockets, Fortran OpenMP, Map/Reduce with Apache Spark,
+Apache Jena, H2.
+. Home office tools
+.. Slack, Atlassian, Jira. BitBucket, Github, Gitlab, Confluence, Zoom.
+.. Google drive as office suite
+
+Healthcare
+
+. I was manager of new technologies at a project building Health Level Seven v3 (HL7 v3)
+adapters.
+. Interest about FHIR and Linked Data and OSLC capabilities on Healthcare.
+
+Artificial Intelligence and Smart Searches
+. I have created a new implementation of Clasitex. Also made contributions on using ontologies
+for web searches. Also developed a smart web crawler (actually used on BiblioDigital). Did some
+research to measure qualitative values on databases.
+
+Studies
+
+. COBAO "Pueblo Nuevo", Oaxaca. High School.
+. ESIQIE, IPN. Metallurgical Engineering. Just 1 year.
+. UPIICSA, IPN. Undergraduate on Informatics Science.
+
+Research and publications
+
+. IEEE International Symposium and School on Advance Distributed Systems ISSADS 2004:
+Lecture Notes in Computer Science. A distributed digital text accesing and acquisition system.
+. IEEE International Symposium and School on Advance Distributed Systems ISSADS 2005:
+Extending databases to precision-controlled retrieval of qualitative information
+. The Semantics of Confusion in Hierarchies: Theory and Practice in: Common Semantics for
+Sharing Knowledge: Contributions to ICCS 2005 13th International Conference on Conecptual
+Structures, ICCS 2005 Kassel, Germany, July 2005
+. BiblioDigital, red para compartir información distribuida. Boletín de los Sistemas Nacionales
+Estadístico y de Información Geográfica , 2004.
+
+Other interests
+
+Indoor climbing, sailing, salsa dance teacher, sweat lodge student
+
